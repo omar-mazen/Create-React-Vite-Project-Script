@@ -1,7 +1,3 @@
-Here’s a guide for documenting and uploading your script to GitHub:
-
----
-
 # Create React Vite Project Script
 
 This script automates the setup of a new React project using Vite, along with optional installations of various libraries. It also configures ESLint and Vite for your project.
