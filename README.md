@@ -8,6 +8,8 @@ This script automates the setup of a new React project using Vite, along with op
 - Installs optional libraries based on user input
 - Configures ESLint and Vite with the appropriate plugins and settings
 - Sets up project structure and initial files
+- Clear and update the App.jsx and index.css.
+- Delete unnecessary files and folders.
 - Opens the project in Visual Studio Code
 
 ## Prerequisites
