@@ -2,7 +2,7 @@
 
 This script automates the setup of a new React project using Vite, along with optional installations of various libraries. It also configures ESLint and Vite for your project.
 
-![image](https://github.com/user-attachments/assets/84ab6ec9-b323-4d67-bed4-b39d65fd9f16)
+![image](https://github.com/user-attachments/assets/74074a39-7f62-404b-8c39-e3b175df9a80)
 
 ## Features
 
